@@ -13,7 +13,7 @@ Project Development:
 VMWare Workstation Pro 17
 
 (Virtual) Hardware:
-Red Hat Enterprise Linux (Latest)
+Red Hat Enterprise Linux 9.5
 1 Processors (2 core each)
 4 GB RAM
 50 GB Virutal Hard Drive
